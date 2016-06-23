@@ -1,0 +1,9 @@
+D:\Project\USB\USBLib\USBLib\bin\Debug\USBLib.exe.config
+D:\Project\USB\USBLib\USBLib\bin\Debug\USBLib.exe
+D:\Project\USB\USBLib\USBLib\bin\Debug\USBLib.pdb
+D:\Project\USB\USBLib\USBLib\obj\Debug\USBLib.Main.resources
+D:\Project\USB\USBLib\USBLib\obj\Debug\USBLib.Properties.Resources.resources
+D:\Project\USB\USBLib\USBLib\obj\Debug\USBLib.csproj.GenerateResource.Cache
+D:\Project\USB\USBLib\USBLib\obj\Debug\USBLib.exe
+D:\Project\USB\USBLib\USBLib\obj\Debug\USBLib.pdb
+D:\Project\USB\USBLib\USBLib\obj\Debug\USBLib.csprojResolveAssemblyReference.cache
